@@ -1,11 +1,3 @@
-Perfect, this folder structure clears everything up 👍
-Below is a **fully aligned, copy-pastable README** that **exactly matches what’s visible in your project** (datasets, meme folders, scripts, model file).
-No assumptions, no mismatch.
-
-You can **paste this directly into `README.md`**.
-
----
-
 # 🎭 Face Meme Generator
 
 **Real-Time Facial Expression Recognition with Meme Switching**
