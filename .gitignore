@@ -1,0 +1,16 @@
+venv/
+.env
+
+__pycache__/
+*.pyc
+
+Datasets/
+
+*.h5
+*.ckpt
+*.pt
+*.pth
+
+.vscode/
+.idea/
+.DS_Store
